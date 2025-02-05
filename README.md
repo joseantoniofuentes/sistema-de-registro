@@ -5,3 +5,5 @@
 - Para ejecutar el sistema, debes poner :
 
 - ```` mpn install react ````
+
+- practicar el git pull---
